@@ -1,8 +1,6 @@
 <h1>Michael Phan's Personal Portfolio</h1>
 
 <p>
-  Welcome to my personal portfolio website!<br>
-  <strong>Live site:</strong>
   <a href="https://michaelphanpersonalportfolio.vercel.app/" target="_blank">
     michaelphanpersonalportfolio.vercel.app
   </a>
