@@ -37,15 +37,3 @@
 <p>
   The site is deployed using <strong>Vercel</strong>, allowing fast and continuous updates.
 </p>
-
-<h2>Contact</h2>
-
-<p>
-  Feel free to reach out or connect:
-</p>
-
-<ul>
-  <li>Email: your-email@example.com</li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">your-linkedin</a></li>
-  <li>GitHub: <a href="https://github.com/your-github" target="_blank">your-github</a></li>
-</ul>
