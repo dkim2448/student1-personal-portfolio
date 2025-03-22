@@ -9,7 +9,7 @@
 <h2>About the Project</h2>
 
 <p>
-  This is a minimalist and responsive portfolio built to showcase my projects, skills, and background as a computer science student. The design focuses on clarity, interactivity, and user experience.
+  This is a minimalist and responsive portfolio built to showcase a CU Denver student. The design focuses on clarity, interactivity, and user experience.
 </p>
 
 <h2>Tech Stack</h2>
