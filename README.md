@@ -6,6 +6,8 @@
   </a>
 </p>
 
+<img src="assets/Screenshot 2025-03-23 122152.png">
+
 <h2>About the Project</h2>
 
 <p>
