@@ -1,4 +1,4 @@
-<h1>Michael Phan's Personal Portfolio</h1>
+<h1>michael phan's personal portfolio</h1>
 
 <p>
   <a href="https://michaelphanpersonalportfolio.vercel.app/" target="_blank">
@@ -6,32 +6,32 @@
   </a>
 </p>
 
-<h2>About the Project</h2>
+<h2>about the project</h2>
 
 <p>
-  This is a minimalist and responsive portfolio built to showcase a CU Denver student. The design focuses on clarity, interactivity, and user experience.
+  this is a minimalist and responsive portfolio built to showcase a cu denver student. the design focuses on clarity, interactivity, and user experience.
 </p>
 
-<h2>Tech Stack</h2>
+<h2>tech stack</h2>
 
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>Vercel (for deployment)</li>
+  <li>html5</li>
+  <li>css3</li>
+  <li>javascript</li>
+  <li>vercel (for deployment)</li>
 </ul>
 
-<h2>Features</h2>
+<h2>features</h2>
 
 <ul>
-  <li>Dynamic project showcase with hover effects</li>
-  <li>Smooth scrolling navigation</li>
-  <li>Responsive layout for various screen sizes</li>
-  <li>Modern and accessible user interface</li>
+  <li>dynamic project showcase with hover effects</li>
+  <li>smooth scrolling navigation</li>
+  <li>responsive layout for various screen sizes</li>
+  <li>modern and accessible user interface</li>
 </ul>
 
-<h2>Deployment</h2>
+<h2>deployment</h2>
 
 <p>
-  The site is deployed using <strong>Vercel</strong>, allowing fast and continuous updates.
+  the site is deployed using <strong>vercel</strong>, allowing fast and continuous updates.
 </p>
