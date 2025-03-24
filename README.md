@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://michaelphanpersonalportfolio.vercel.app/" target="_blank">
-    michaelphanpersonalportfolio.vercel.app
+     link to website
   </a>
 </p>
 
