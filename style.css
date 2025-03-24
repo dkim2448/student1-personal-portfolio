@@ -133,6 +133,7 @@ nav button#menuButton {
     text-align: right;
     font-size: 15px;
     font-weight: bold;
+    margin-bottom: 40px;
 }
 
 .main .right img {
